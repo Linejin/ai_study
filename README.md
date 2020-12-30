@@ -11,11 +11,10 @@
  3. 모두를 위한 딥러닝(개념위주이되 Tensorflow사용) : https://hunkim.github.io/ml/
  
 - pytorch 참고자료
- 1. pytorch tutorial, code 위주 : https://github.com/GunhoChoi/PyTorch-FastCampus/blob/master/02_Regression%26NN/1_NN_code/2d_data/neural_2d.ipynb
- 2. PyTorch로 시작하는 딥 러닝 입문 : https://wikidocs.net/book/2788
- 3. PyTorch로 시작하는 딥러닝의 Code repository : https://github.com/taewanme/DL_With_PyTorch
- 4. PyTorch로 시작하는 딥러닝 입문 CAMP 1,2기 강의자료 : https://github.com/GunhoChoi/PyTorch-FastCampus
- 5. 모두를 위한 딥러닝 시즌 2 : https://deeplearningzerotoall.github.io/season2/lec_pytorch.html
+ 1. PyTorch로 시작하는 딥 러닝 입문 : https://wikidocs.net/book/2788
+ 2. PyTorch로 시작하는 딥러닝의 Code repository : https://github.com/taewanme/DL_With_PyTorch
+ 3. PyTorch로 시작하는 딥러닝 입문 CAMP 1,2기 강의자료 : https://github.com/GunhoChoi/PyTorch-FastCampus
+ 4. 모두를 위한 딥러닝 시즌 2 : https://deeplearningzerotoall.github.io/season2/lec_pytorch.html
 
 - Tensorflow Keras 참고자료
  1. 딥러닝을 이용한 자연어 처리 입문 : https://wikidocs.net/book/2155
