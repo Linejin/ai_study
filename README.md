@@ -21,3 +21,7 @@
 - Tensorflow Keras 참고자료
  1. 딥러닝을 이용한 자연어 처리 입문 : https://wikidocs.net/book/2155
  2. 모두를 위한 딥러닝 시즌 2 : https://deeplearningzerotoall.github.io/season2/lec_tensorflow.html
+
+- Teachable(초등 교육) 참고자료
+ 1. MIT AI Ethics Education Curriculum: https://docs.google.com/document/d/1e9wx9oBg7CR0s5O7YnYHVmX7H7pnITfoDxNdrSGkp60/edit#
+ 2. ReadyAI : https://www.readyai.org/curriculum/
