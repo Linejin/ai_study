@@ -25,3 +25,5 @@
 - Teachable(초등 교육) 참고자료
  1. MIT AI Ethics Education Curriculum: https://docs.google.com/document/d/1e9wx9oBg7CR0s5O7YnYHVmX7H7pnITfoDxNdrSGkp60/edit#
  2. ReadyAI : https://www.readyai.org/curriculum/
+ 3. 초등 교사들을 위한 인공지능 교육 프로그램 개발 및 적용(논문) : https://www.koreascience.or.kr/article/JAKO201912758458888.pdf
+    - 김갑수(2019), Journal of The Korean Associationo of Information Education Vol. 23, No. 6, December 2019, pp. 629-637
