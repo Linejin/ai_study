@@ -1,8 +1,10 @@
 "# ai_study" 
 
 **KNN.ipynb**를 클릭한 후 **Open in Colab**을 클릭하여 자료를 확인하실 수 있습니다.
-----
+
+
 참고자료
+----
 
 - DATASET 모음 : https://kaggle.com
 - ML관련 참고자료
