@@ -30,5 +30,5 @@
 
 - 기타 참고자료
  1. EBS Coding 교육(인공지능 포함 다양한 ) : https://www.ebssw.kr/edc/cultursens/cultursensListView.do?level=1&pageIndex=1
- 2. AI4K12 : https://github.com/touretzkyds/ai4k12/wiki
+ 2. AI4K12 (미국 AI 교육 위키) : https://github.com/touretzkyds/ai4k12/wiki
  3. AI4All : https://ai-4-all.org/open-learning/
