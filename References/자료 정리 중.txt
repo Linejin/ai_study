@@ -59,9 +59,11 @@ Affective computing이란
 Human-robot의 상호작용
 Natural interaction AI의 제한점
 
-
-
-
+5. societal impact
+AI가 사회에 미칠 영향
+- ex) 로봇 하인, 구조 대원, 동반자
+AI의 윤리적 영향을 생각해본다.
+- ex) 보안(프라이버시)적 관점, 이루다의 사례
 
 
 K-12 students에 대한 Guidlines
@@ -75,10 +77,3 @@ Student Activity에서 추구해야 할 점
 3. System이 어떻게 구성되는지를 생각한다.
 4. AI에서 편향이 이루어지는 원인
 5. AI system이 사회에 미치는 영향
-
-
-
-
-
-
-
