@@ -122,7 +122,12 @@
 			
 			
 - Convolutional Neural Network
-
+  - main idea
+    - image data의 data구성
+      - image data의 특징(인접 data와의 연관성)
+    - image data의 nn - classification(non CNN)
+    - 인접 data에 대하여 feature 추출 후 nn - classification(CNN)
+    - Max-pooling
 - GAN
 
 
