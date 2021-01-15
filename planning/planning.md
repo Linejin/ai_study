@@ -82,7 +82,6 @@
       - sigmoid 그래프의 오차를 보며 [weight, bias]조정해보기
       - 만들었던 pytorch-nn의 model의 오차값 확인해보기
     - 경사하강법을 이용하여 학습시키기
-    - NN
       - pytorch-nn으로 확률 구해보기
     - Classification
       - 확률값을 보고 2가지 상태에 대한 판별해보기
