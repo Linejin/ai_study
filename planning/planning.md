@@ -1,4 +1,4 @@
-1. Overview
+##1. Overview
 - kind of ML
   - Supervised, Unsupervised, Reinforcement
   - Regression, Clustering
@@ -7,7 +7,7 @@
 - Decision Tree
 - ex) 물고기 분류, 꽃 분류
 
-2. DataScience
+##2. DataScience
 - torch.tensor
   - dtype
   - type casting
@@ -27,7 +27,7 @@
   - squeeze & unsqueeze
   - concatenate & stack
 		
-3. ML Basic
+##3. ML Basic
 - KNN
   - main idea
     - 비슷한것 찾기
