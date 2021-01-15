@@ -44,7 +44,7 @@
     - Matrix Data
       - torch의 산술 연산으로 계산하여 비슷한것 찾기
     - Tensor Data
-      - pytorch의 명령어(norm, )를 사용해 비슷한것 찾기
+      - pytorch의 명령어(norm, argsort 등) 사용해 비슷한것 찾기
     - Normalization
       - Data 정규화를 하여 KNN 진행
     - KNN regression
