@@ -1,6 +1,8 @@
 1.Overview
-	- kind of ML
-		- Supervised, Unsupervised, Reinforcement
+
+- kind of ML
+
+  - Supervised, Unsupervised, Reinforcement
 		- Regression, Clustering
 	- Representation & Reasoning
 		- 특징 분류
