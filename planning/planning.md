@@ -94,7 +94,7 @@
       - Multiple Linear Regression 구현해보기
     - 3차원 그래프 그려보기
       - 다대일 모델
-    - Multiple Rogistic Regression 구현해보기
+    - Multiple ogistic Regression 구현해보기
       - 다대다 모델
       - one-hot-encoding
     - Perceptron 소개
