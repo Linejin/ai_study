@@ -42,7 +42,7 @@
       - 비슷하다의 수학적 표현방법 - 거리
       - 거리 계산하는 방법(L1, L2)
     - Matrix Data
-    - torch의 산술 연산으로 계산하여 비슷한것 찾기
+      - torch의 산술 연산으로 계산하여 비슷한것 찾기
     - Tensor Data
       - pytorch의 명령어(norm, )를 사용해 비슷한것 찾기
     - Normalization
