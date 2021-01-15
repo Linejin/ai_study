@@ -1,3 +1,6 @@
+# 기본적인 흐름
+- 문제 발생 -> 문제를 해결할 idea -> idea에 따라 퀴즈 풀어보기 -> 해당 퀴즈에 내재된 개념 설명(구체화) -> 개당 개념을 반영하여 코드 작성
+
 ## 1. Overview
 - kind of ML
   - Supervised, Unsupervised, Reinforcement
@@ -82,12 +85,46 @@
       - 각 활성함수를 사용하는 상황 예시로 설명
 		
 - Multiple Regression & Perceptron
-  - main idea
+  -main idea
     - Multiple Regression의 필요성
+      - Multiple Linear Regression 구현해보기
+    - 3차원 그래프 그려보기
+      - 다대일 모델
+    - Multiple Rogistic Regression 구현해보기
+      - 다대다 모델
+      - one-hot-encoding
+    - Perceptron 소개
 
 	
 - Neural Network & fitting
-
+  - main idea
+     - Perceptron과 Neural & Neural Network와 Brain
+       - DATA값에 따라 label을 분류해보기
+       - Decision Tree Algorithm
+       - Perceptron을 Decision Tree에 대입해보기
+       - Feature 소개
+     - Deep Learning
+       - Neural Network의 작동 방식 살펴보기
+       - Deep Learning 방식의 Neural Network
+       - Black Box
+     - NN
+       - pytorch-nn으로 Neural Net 구성해보기
+     - Overfitting, Underfitting
+       - Decision Tree로 살펴보는 Overfitting, Underfitting
+       - Overfitting과 Underfitting을 최소화 할 방법 구상하기
+       - Dropout 소개
+     - NN
+       - pythorch-nn으로 Dropout이 포함되는 Neural Net 구성해보기
+			
+			
 - Convolutional Neural Network
 
 - GAN
+
+
+항상 model 이름은 model로 통일
+단, GAN은 model_g, model_d로 사용
+
+Challenge & practice는 model의 정확도로 판정 - RunCodeRule
+단, 일부 ContainCodeRule이 적용될 수 있음
+이를 위하여 사전에 채점용 DATA가 등록되어 있어야 함
