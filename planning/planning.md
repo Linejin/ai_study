@@ -13,7 +13,7 @@
 - Representation & Reasoning
 - 특징 분류
 - Decision Tree
-- ex) 물고기 분류, 꽃 분류
+- ex) 물고기 분류, 꽃 분류, 성적 향상 예상
 
 ## 2. DataScience
 - torch.tensor
