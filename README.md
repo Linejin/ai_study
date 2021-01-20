@@ -33,3 +33,36 @@
 - Tensorflow Keras 참고자료
  1. 딥러닝을 이용한 자연어 처리 입문 : https://wikidocs.net/book/2155
  2. 모두를 위한 딥러닝 시즌 2 : https://deeplearningzerotoall.github.io/season2/lec_tensorflow.html
+
+
+
+
+
+
+
+
+
+
+
+MS : https://docs.microsoft.com/ko-kr/learn/modules/classify-images-custom-vision/
+
+- Azure의 사용법에 초점
+- 간략한 설명(학생 기준에선 너무 중간을 뛰어넘는 느낌이 강할듯)
+- 해당 내용에 대한 예시 있음
+
+google : https://developers.google.com/machine-learning/crash-course/introduction-to-neural-networks/playground-exercises
+
+- 성인대상
+- Video Lecture, 이론, Playground, Programming으로 구성
+- Playerground는 nn을 구성해볼 수 있음
+- Programming은 Colab으로 구성되어 있음
+
+coursera : https://www.coursera.org/learn/machine-learning/home/welcome
+
+- 성인대상
+- ML의 이론적 설명
+
+Udacity : https://classroom.udacity.com/courses/cs271
+
+- 성인대상
+- 펜으로 써가는 과정을 촬영하여 강의함
