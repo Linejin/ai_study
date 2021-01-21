@@ -57,7 +57,7 @@
  https://makerspace.aisingapore.org/learn-ai/  
  https://opentutorials.org/course/4578  
  https://education.cubroid.com/mission/list/advanced_ai  
- -mit  
+ -ibm   
  https://ptech.yourlearning.ibm.com/search/all/q=AI  
  -naver  
  https://www.playsw.or.kr/artificial/textbook  
