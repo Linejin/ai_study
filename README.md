@@ -61,7 +61,7 @@
  https://ptech.yourlearning.ibm.com/search/all/q=AI  
  -naver  
  https://www.playsw.or.kr/artificial/textbook  
- - intel  
- https://brainai.kr/courses/ai4y-coach-module1/
+ -intel  
+ https://brainai.kr/ai4y/  
  
  
