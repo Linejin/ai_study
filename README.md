@@ -44,6 +44,9 @@
    kt---  
   https://aicodingblock.kt.co.kr/uploads/textbook2/%EB%82%98%EB%A7%8C%EC%9D%98%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.pdf  
   https://aicodingblock.kt.co.kr/uploads/textbook2/KT%20AI%20%EC%BD%94%EB%94%A9%ED%8C%A9%EC%9C%BC%EB%A1%9C%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EA%B3%B5%EB%B6%80%ED%95%98%EA%B8%B0_1%ED%8E%B8.pdf  
+  keris--  
+  https://www.keris.or.kr/main/ad/pblcte/selectPblcteETCInfo.do?mi=1142&pblcteSeq=13364  
+  else--  
  https://makerspace.aisingapore.org/learn-ai/  
  https://opentutorials.org/course/4578  
  https://education.cubroid.com/mission/list/advanced_ai  
