@@ -80,3 +80,5 @@ Udacity : https://classroom.udacity.com/courses/cs271
 
 - 성인대상
 - 펜으로 써가는 과정을 촬영하여 강의함
+
+quickdraw : https://github.com/googlecreativelab/quickdraw-dataset
