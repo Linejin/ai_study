@@ -1,3 +1,8 @@
+$$
+\begin{bmatrix} F_{n+1} & F_n\\ F_n & F_{n - 1} \end{bmatrix}=\begin{bmatrix} F_{2} & F_1\\ F_1 & F_{2} \end{bmatrix} = \begin{bmatrix} 1 & 1\\ 1 & 0 \end{bmatrix}
+$$
+
+
 # Super-AI1
 ## flow
 1. 문제 발생
@@ -139,6 +144,4 @@ Challenge & practice는 model의 정확도로 판정 - RunCodeRule
 이를 위하여 사전에 채점용 DATA가 등록되어 있어야 함
 
 
-$$
-\begin{bmatrix} F_{n+1} & F_n\\ F_n & F_{n - 1} \end{bmatrix}=\begin{bmatrix} F_{2} & F_1\\ F_1 & F_{2} \end{bmatrix} = \begin{bmatrix} 1 & 1\\ 1 & 0 \end{bmatrix}
-$$
+
